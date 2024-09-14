@@ -104,8 +104,7 @@ Installation
 Clonez ce dépôt :
 
 ```bash
-git clone https://github.com/votre-utilisateur/pokemon-api.git
-
+git clone https://github.com/ChronaMakenshi/Pokedex_API.git
 ```
 Installez les dépendances :
 
